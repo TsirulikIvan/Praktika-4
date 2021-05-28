@@ -1,14 +1,14 @@
 # Praktika-4
 ## ИСР 1.1
-[Задание]()
+[Задание](https://github.com/TsirulikIvan/Praktika-4/blob/main/список-литературы.pdf)
 ## ИСР 1.2
 [Задание]()
 ## ИСР 1.3
-[Задание]()
+[Задание](https://github.com/TsirulikIvan/Praktika-4/blob/main/1-Diplom_Tsirulik_IVT.pdf)
 ## ИСР 1.4
 [Задание]()
 ## ИСР 1.5
-[Задание]()
+[Задание](https://github.com/TsirulikIvan/Praktika-4/blob/main/Report_54_20210525_Государев_Илья_Борисович.pdf)
 ## ИСР 1.6
 [Задание]()
 ## ВСР 2.1
